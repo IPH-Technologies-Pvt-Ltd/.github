@@ -1,6 +1,7 @@
 <div align="left"> 
 <a href="https://iphtechnologies.com/" target="_blank"><img src='https://user-images.githubusercontent.com/124572978/217247036-38040d3b-c094-4fd1-b47a-05b99b76556d.jpg' /></a>
 </div>
+
 # IPH Technologies
 
 ### AI Engineering • Enterprise Platforms • Digital Product Development
