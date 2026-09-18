@@ -1,5 +1,7 @@
 <div align="left"> 
-<a href="https://iphtechnologies.com/" target="_blank"><img src='https://user-images.githubusercontent.com/124572978/217247036-38040d3b-c094-4fd1-b47a-05b99b76556d.jpg' /></a>
+<a href="https://iphtechnologies.com/" target="_blank">
+  <img src="assets/readme-cover.png" alt="Project Overview" />
+</a>
 </div>
 
 # IPH Technologies
@@ -133,6 +135,10 @@ We engineer infrastructure designed for scalability, reliability, security, and 
 - Infrastructure Modernization
 
 ---
+
+<div align="left"> 
+<img src="assets/enterprise-ai-architecture.png" alt="Enterprise AI Architecture" />
+</div>
 
 ## Enterprise AI Architecture
 
